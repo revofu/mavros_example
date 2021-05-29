@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>offb_node</name>
+  <version>1.0.0</version>
+  <description>The offb_node package</description>
+
+  <maintainer email="revofu@gmail.com">Heungsik Ko</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>mavros</build_depend>
+  <build_depend>roscpp</build_depend>
+
+  <build_export_depend>mavros</build_export_depend>
+  <build_depend>roscpp</build_depend>
+
+  <exec_depend>mavros</exec_depend>
+  <exec_depend>roscpp</exec_depend>
+
+</package>
